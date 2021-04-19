@@ -1,3 +1,10 @@
+# Amplify SNS Workshop
+
+https://amplify-sns.workshop.aws/ja/
+
+上記のAWS Amplify SNS Workshopのチュートリアルを実施し、
+作業がわかりやすい単位でコミット。
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
